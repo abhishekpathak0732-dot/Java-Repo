@@ -37,6 +37,4 @@ java Main
 * StudentManager.java
 * FileHandler.java
 
-## Author
 
-Mayank Banwale
